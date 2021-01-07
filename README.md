@@ -8,15 +8,15 @@ To install the package, run the following in your `R` console: `devtools::instal
 
 We demonstrate use of the `nationalpaRkpalettes` package using the `NationalParkVisits_2019` data.
 
-`devtools::install_github("sarahlotspeich/nationalpaRkpalettes")
-library(nationalpaRkpalettes)
+`devtools::install_github("sarahlotspeich/nationalpaRkpalettes")`
+`library(nationalpaRkpalettes)`
 
-visits <- read.csv("https://raw.githubusercontent.com/sarahlotspeich/nationalpaRkpalettes/master/data/NationalParkVisits_2019.csv")
+`visits <- read.csv("https://raw.githubusercontent.com/sarahlotspeich/nationalpaRkpalettes/master/data/NationalParkVisits_2019.csv")`
 
-library(ggplot2)
-top10 <- visits[visits$Rank <= 10, ]
-top10$ParkName <- factor(top10$ParkName, levels = top10$ParkName)
-ggplot(data = top10) + 
+`library(ggplot2)`
+`top10 <- visits[visits$Rank <= 10, ]`
+`top10$ParkName <- factor(top10$ParkName, levels = top10$ParkName)`
+`ggplot(data = top10) + 
   geom_bar(aes(x = ParkName, y = Value, fill = ParkName), stat = "identity") + 
   scale_fill_manual(values = park_palette("olympic"), guide = F) + 
   xlab("National Park") + ylab("Number of Visitors") + 
