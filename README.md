@@ -26,4 +26,6 @@ We demonstrate use of the `nationalpaRkpalettes` package using the `NationalPark
   ggtitle("Top 10 Most-Visited US National Parks (2019)") + theme_minimal() + 
   theme(axis.text.x = element_text(angle = 30, hjust = 1))`
 
+![Alt text](images/ParkVisitors2019.png)
+
 Data source: https://irma.nps.gov/Stats/SSRSReports/National%20Reports/Annual%20Park%20Ranking%20Report%20(1979%20-%20Last%20Calendar%20Year)
