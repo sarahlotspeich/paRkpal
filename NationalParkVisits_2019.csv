@@ -1,0 +1,379 @@
+﻿ParkName,Rank,Value,PercentOfTotal
+Golden Gate NRA,1,15002227,0.0458
+Blue Ridge PKWY,2,14976085,0.0457
+Great Smoky Mountains NP,3,12547743,0.0383
+Gateway NRA,4,9405622,0.0287
+Lincoln Memorial,5,7808182,0.0238
+Lake Mead NRA,6,7499049,0.0229
+George Washington MEM PKWY,7,7487265,0.0229
+Natchez Trace PKWY,8,6296041,0.0192
+Grand Canyon NP,9,5974411,0.0182
+Gulf Islands NS,10,5600240,0.0171
+Chesapeake & Ohio Canal NHP,11,5116787,0.0156
+World War II Memorial,12,4831327,0.0148
+Rocky Mountain NP,13,4670053,0.0143
+Vietnam Veterans MEM,14,4580587,0.014
+Independence NHP,15,4532459,0.0138
+Zion NP,16,4488268,0.0137
+Yosemite NP,17,4422861,0.0135
+Castle Clinton NM,18,4361034,0.0133
+Glen Canyon NRA,19,4330563,0.0132
+Statue of Liberty NM,20,4240461,0.0129
+Cape Cod NS,21,4096104,0.0125
+Yellowstone NP,22,4020288,0.0123
+San Francisco Maritime NHP,23,4016598,0.0123
+Korean War Veterans Memorial,24,3841633,0.0117
+"Martin Luther King, Jr. Memorial",25,3667562,0.0112
+Acadia NP,26,3437286,0.0105
+Grand Teton NP,27,3405614,0.0104
+Chattahoochee River NRA,28,3393133,0.0104
+Delaware Water Gap NRA,29,3374865,0.0103
+Colonial NHP,30,3327268,0.0102
+Franklin Delano Roosevelt MEM,31,3303573,0.0101
+Olympic NP,32,3245806,0.0099
+Boston NHP,33,3201834,0.0098
+Thomas Jefferson MEM,34,3096895,0.0095
+Glacier NP,35,3049839,0.0093
+Joshua Tree NP,36,2988547,0.0091
+Kennesaw Mountain NBP,37,2621050,0.008
+Cape Hatteras NS,38,2606632,0.008
+Bryce Canyon NP,39,2594904,0.0079
+Rock Creek Park,40,2416232,0.0074
+Assateague Island NS,41,2344536,0.0072
+Point Reyes NS,42,2265301,0.0069
+Valley Forge NHP,43,2259944,0.0069
+Cuyahoga Valley NP,44,2237997,0.0068
+Indiana Dunes NP,45,2134285,0.0065
+Stonewall NM,46,2088929,0.0064
+Gateway Arch NP,47,2055309,0.0063
+Mount Rushmore NMEM,48,1963540,0.006
+Canaveral NS,49,1884122,0.0058
+National Capital Parks Central,50,1770794,0.0054
+Death Valley NP,51,1740945,0.0053
+Pearl Harbor NMEM,52,1716535,0.0052
+Arches NP,53,1659702,0.0051
+Sleeping Bear Dunes NL,54,1570001,0.0048
+Mount Rainier NP,55,1501621,0.0046
+Hot Springs NP,56,1467153,0.0045
+"John D. Rockefeller, Jr. MEM PKWY",57,1426666,0.0044
+Shenandoah NP,58,1425507,0.0044
+Chickasaw NRA,59,1422612,0.0043
+Fort Point NHS,60,1421349,0.0043
+Hawaii Volcanoes NP,61,1368376,0.0042
+Lake Roosevelt NRA,62,1358818,0.0041
+Lake Meredith NRA,63,1328340,0.0041
+Buffalo NR,64,1326282,0.004
+San Antonio Missions NHP,65,1281121,0.0039
+Amistad NRA,66,1267900,0.0039
+Sequoia NP,67,1246053,0.0038
+Capitol Reef NP,68,1226519,0.0037
+Ozark NSR,69,1221489,0.0037
+National Capital Parks East,70,1210641,0.0037
+Timucuan EHP,71,1205065,0.0037
+San Juan NHS,72,1197345,0.0037
+New River Gorge NR,73,1195721,0.0037
+Everglades NP,74,1118300,0.0034
+Klondike Gold Rush NHP Alaska,75,1116161,0.0034
+Ross Lake NRA,76,1088528,0.0033
+Saguaro NP,77,1020226,0.0031
+Fort Vancouver NHS,78,1018214,0.0031
+Minute Man NHP,79,1017326,0.0031
+Big Cypress NPRES,80,1007471,0.0031
+Haleakala NP,81,994394,0.003
+Chickamauga & Chattanooga NMP,82,977158,0.003
+Badlands NP,83,970998,0.003
+Gettysburg NMP,84,925117,0.0028
+Fredericksburg & Spotsylvania NMP,85,906800,0.0028
+Fort Sumter and Fort Moultrie NHP,86,877894,0.0027
+Pictured Rocks NL,87,858715,0.0026
+Mojave NPRES,88,841516,0.0026
+Curecanti NRA,89,836034,0.0026
+Muir Woods NM,90,812073,0.0025
+"Martin Luther King, Jr. NHP",91,761650,0.0023
+Cabrillo NM,92,761485,0.0023
+Big South Fork NRRA,93,750494,0.0023
+Canyonlands NP,94,733996,0.0022
+President's Park,95,715911,0.0022
+Biscayne NP,96,708522,0.0022
+Santa Monica Mountains NRA,97,707566,0.0022
+Cumberland Gap NHP,98,704598,0.0022
+Crater Lake NP,99,704512,0.0022
+Theodore Roosevelt NP,100,691658,0.0021
+Whiskeytown NRA,101,687159,0.0021
+Castillo de San Marcos NM,102,673395,0.0021
+Glacier Bay NP & PRES,103,672087,0.0021
+Little River Canyon NPRES,104,649986,0.002
+Petrified Forest NP,105,643588,0.002
+Saint Croix NSR,106,638258,0.0019
+Kings Canyon NP,107,632110,0.0019
+Wind Cave NP,108,615350,0.0019
+White Sands NP,109,608785,0.0019
+Denali NP & PRES,110,601152,0.0018
+Fort Matanzas NM,111,593788,0.0018
+Governors Island NM,112,590993,0.0018
+Jean Lafitte NHP & PRES,113,590329,0.0018
+Cedar Breaks NM,114,579861,0.0018
+Vicksburg NMP,115,576456,0.0018
+Padre Island NS,116,576299,0.0018
+Ford's Theatre NHS,117,572373,0.0017
+Mesa Verde NP,118,556203,0.0017
+Mammoth Cave NP,119,551590,0.0017
+Great Sand Dunes NP & PRES,120,527546,0.0016
+Lassen Volcanic NP,121,517039,0.0016
+Manassas NBP,122,510427,0.0016
+Redwood NP,123,504722,0.0015
+Lowell NHP,124,481536,0.0015
+Big Bend NP,125,463832,0.0014
+Canyon de Chelly NM,126,460757,0.0014
+Cape Lookout NS,127,455526,0.0014
+White House,128,454117,0.0014
+Devils Tower NM,129,450785,0.0014
+Carlsbad Caverns NP,130,440691,0.0013
+Black Canyon of the Gunnison NP,131,432818,0.0013
+War in the Pacific NHP,132,432213,0.0013
+Fort Washington Park,133,423868,0.0013
+Boston African American NHS,134,419585,0.0013
+Fort McHenry NM & HS,135,419545,0.0013
+Pu'uhonua o Honaunau NHP,136,414410,0.0013
+Flight 93 NMEM,137,411226,0.0013
+Channel Islands NP,138,409630,0.0013
+Wolf Trap NP for the Performing Arts,139,402580,0.0012
+Wright Brothers NMEM,140,400135,0.0012
+Colorado NM,141,397032,0.0012
+Fire Island NS,142,391311,0.0012
+Montezuma Castle NM,143,376254,0.0011
+Mississippi NRRA,144,374682,0.0011
+Fort Pulaski NM,145,374290,0.0011
+Shiloh NMP,146,360989,0.0011
+Kenai Fjords NP,147,356601,0.0011
+Prince William Forest Park,148,339693,0.001
+Salem Maritime NHS,149,339238,0.001
+Piscataway Park,150,329729,0.001
+Vanderbilt Mansion NHS,151,326822,0.001
+Fort Necessity NB,152,312104,0.001
+Harpers Ferry NHP,153,299577,0.0009
+Dinosaur NM,154,298965,0.0009
+Catoctin Mountain Park,155,296846,0.0009
+Petroglyph NM,156,293957,0.0009
+San Juan Island NHP,157,292507,0.0009
+Antietam NB,158,287343,0.0009
+Stones River NB,159,284516,0.0009
+Paterson Great Falls NHP,160,276985,0.0008
+Craters of the Moon NM & PRES,161,272224,0.0008
+Morristown NHP,162,271330,0.0008
+Lewis & Clark NHP,163,270993,0.0008
+Federal Hall NMEM,164,264849,0.0008
+Organ Pipe Cactus NM,165,263186,0.0008
+Kings Mountain NMP,166,262031,0.0008
+Big Thicket NPRES,167,255926,0.0008
+Fort Donelson NB,168,254431,0.0008
+Bighorn Canyon NRA,169,249659,0.0008
+Fort Raleigh NHS,170,248139,0.0008
+LBJ Memorial Grove on the Potomac,171,244246,0.0007
+Little Bighorn Battlefield NM,172,241304,0.0007
+Apostle Islands NL,173,240613,0.0007
+Abraham Lincoln Birthplace NHP,174,238226,0.0007
+Petersburg NB,175,235691,0.0007
+Voyageurs NP,176,232974,0.0007
+Kaloko Honokohau NHP,177,232921,0.0007
+Sitka NHP,178,232876,0.0007
+Wilson's Creek NB,179,232838,0.0007
+River Raisin NBP,180,226354,0.0007
+Guilford Courthouse NMP,181,223900,0.0007
+Cowpens NB,182,223413,0.0007
+Obed W&SR,183,221301,0.0007
+Nez Perce NHP,184,216068,0.0007
+Upper Delaware S&RR,185,215537,0.0007
+Fort Frederica NM,186,212330,0.0006
+Bandelier NM,187,200741,0.0006
+Lincoln Home NHS,188,197816,0.0006
+Richmond NBP,189,197242,0.0006
+John Day Fossil Beds NM,190,197091,0.0006
+Allegheny Portage Railroad NHS,191,189189,0.0006
+Guadalupe Mountains NP,192,188833,0.0006
+De Soto NMEM,193,187880,0.0006
+Fort Caroline NMEM,194,187658,0.0006
+Adams NHP,195,187400,0.0006
+Wupatki NM,196,187059,0.0006
+Johnstown Flood NMEM,197,183143,0.0006
+Natchez NHP,198,182123,0.0006
+Pinnacles NP,199,177224,0.0005
+Little Rock Central High School NHS,200,168918,0.0005
+Scotts Bluff NM,201,166007,0.0005
+Congaree NP,202,159445,0.0005
+El Malpais NM,203,158924,0.0005
+Walnut Canyon NM,204,152333,0.0005
+Theodore Roosevelt Island,205,151500,0.0005
+Palo Alto Battlefield NHP,206,149733,0.0005
+Devils Postpile NM,207,147864,0.0005
+Home of Franklin D. Roosevelt NHS,208,147109,0.0004
+Ocmulgee Mounds NHP,209,146925,0.0004
+Saratoga NHP,210,145118,0.0004
+Monocacy NB,211,144969,0.0004
+New Bedford Whaling NHP,212,143427,0.0004
+George Rogers Clark NHP,213,140130,0.0004
+George Washington Birthplace NM,214,139666,0.0004
+Lincoln Boyhood NMEM,215,138714,0.0004
+Pu'ukohola Heiau NHS,216,133573,0.0004
+Virgin Islands NP,217,133398,0.0004
+Great Basin NP,218,131802,0.0004
+Coronado NMEM,219,130328,0.0004
+Missouri NRR,220,129280,0.0004
+Greenbelt Park,221,128702,0.0004
+Minuteman Missile NHS,222,125776,0.0004
+Herbert Hoover NHS,223,125688,0.0004
+Fort Smith NHS,224,125500,0.0004
+Pennsylvania Avenue NHS,225,125035,0.0004
+Jewel Cave NM,226,123489,0.0004
+Perry's Victory & Intl. Peace MEM,227,121325,0.0004
+Gauley River NRA,228,119282,0.0004
+Rainbow Bridge NM,229,115108,0.0004
+General Grant NMEM,230,113852,0.0003
+Lyndon B. Johnson NHP,231,111972,0.0003
+Waco Mammoth NM,232,111331,0.0003
+Klondike Gold Rush NHP Seattle,233,109799,0.0003
+Lava Beds NM,234,109630,0.0003
+Washington Monument,235,108410,0.0003
+Sunset Crater Volcano NM,236,108379,0.0003
+Golden Spike NHP,237,108154,0.0003
+Steamtown NHS,238,105403,0.0003
+Andersonville NHS,239,103635,0.0003
+Christiansted NHS,240,103594,0.0003
+Timpanogos Cave NM,241,103512,0.0003
+Pea Ridge NMP,242,102753,0.0003
+Appomattox Court House NHP,243,102397,0.0003
+City of Rocks NRES,244,99311,0.0003
+Tuzigoot NM,245,98538,0.0003
+Fort Stanwix NM,246,97412,0.0003
+Manzanar NHS,247,97380,0.0003
+Ninety Six NHS,248,97295,0.0003
+Grand Portage NM,249,94985,0.0003
+Dayton Aviation Heritage NHP,250,94709,0.0003
+Natural Bridges NM,251,88090,0.0003
+Katmai NP & PRES,252,84167,0.0003
+Capulin Volcano NM,253,81617,0.0002
+Manhattan Project NHP,254,79870,0.0002
+Dry Tortugas NP,255,79200,0.0002
+Carl Sandburg Home NHS,256,78144,0.0002
+Pipestone NM,257,77508,0.0002
+Florissant Fossil Beds NM,258,77340,0.0002
+Moores Creek NB,259,77006,0.0002
+Wrangell-St. Elias NP & PRES,260,74518,0.0002
+Hamilton Grange NMEM,261,71247,0.0002
+Kalaupapa NHP,262,69401,0.0002
+El Morro NM,263,68867,0.0002
+Casa Grande Ruins NM,264,68379,0.0002
+Gila Cliff Dwellings NM,265,66614,0.0002
+Effigy Mounds NM,266,65581,0.0002
+Oregon Caves NM & PRES,267,65006,0.0002
+Aztec Ruins NM,268,63777,0.0002
+Homestead NM of America,269,61636,0.0002
+Frederick Douglass NHS,270,61063,0.0002
+Niobrara NSR,271,60812,0.0002
+Chiricahua NM,272,60655,0.0002
+Hopewell Culture NHP,273,60338,0.0002
+National Park of American Samoa,274,60006,0.0002
+Roger Williams NMEM,275,59419,0.0002
+Longfellow House Washington's HQ NHS,276,55012,0.0002
+Cumberland Island NS,277,53904,0.0002
+Fort Davis NHS,278,51995,0.0002
+Andrew Johnson NHS,279,51189,0.0002
+Jimmy Carter NHS,280,50789,0.0002
+Rosie The Riveter WWII Home Front NHP,281,50404,0.0002
+Hubbell Trading Post NHS,282,50285,0.0002
+Navajo NM,283,49983,0.0002
+Hopewell Furnace NHS,284,49861,0.0002
+George Washington Carver NM,285,49553,0.0002
+Whitman Mission NHS,286,48481,0.0001
+Eleanor Roosevelt NHS,287,47630,0.0001
+African Burial Ground NM,288,47427,0.0001
+Chaco Culture NHP,289,47342,0.0001
+Eisenhower NHS,290,47277,0.0001
+Marsh-Billings-Rockefeller NHP,291,45979,0.0001
+Big Hole NB,292,45861,0.0001
+Horseshoe Bend NMP,293,45372,0.0001
+Pecos NHP,294,43834,0.0001
+Fort Laramie NHS,295,42892,0.0001
+Thomas Edison NHP,296,42224,0.0001
+James A. Garfield NHS,297,41305,0.0001
+New Orleans Jazz NHP,298,41049,0.0001
+John Muir NHS,299,40725,0.0001
+Tumacacori NHP,300,39704,0.0001
+Ulysses S. Grant NHS,301,39449,0.0001
+Women's Rights NHP,302,39064,0.0001
+Lake Chelan NRA,303,38785,0.0001
+Weir Farm NHS,304,38700,0.0001
+Chamizal NMEM,305,38228,0.0001
+North Cascades NP,306,38208,0.0001
+Bluestone NSR,307,37663,0.0001
+Buck Island Reef NM,308,37085,0.0001
+Sagamore Hill NHS,309,36738,0.0001
+Tuskegee Institute NHS,310,36395,0.0001
+Charles Pinckney NHS,311,35495,0.0001
+Hovenweep NM,312,35399,0.0001
+Friendship Hill NHS,313,34159,0.0001
+Tallgrass Prairie NPRES,314,33750,0.0001
+William Howard Taft NHS,315,32396,0.0001
+Saint-Gaudens NHP,316,31759,0.0001
+Salinas Pueblo Missions NM,317,31672,0.0001
+Harry S Truman NHS,318,30746,0.0001
+Tuskegee Airmen NHS,319,30097,0.0001
+Cane River Creole NHP,320,29922,0.0001
+Tonto NM,321,28853,0.0001
+Arkansas Post NMEM,322,28519,0.0001
+Hampton NHS,323,28234,0.0001
+Pipe Spring NM,324,27482,0.0001
+Theodore Roosevelt Inaugural NHS,325,26994,0.0001
+Fort Larned NHS,326,26958,0.0001
+Isle Royale NP,327,26410,0.0001
+Theodore Roosevelt Birthplace NHS,328,25978,0.0001
+Grant-Kohrs Ranch NHS,329,25043,0.0001
+John F. Kennedy NHS,330,24838,0.0001
+Booker T. Washington NM,331,24640,0.0001
+Fort Scott NHS,332,24068,0.0001
+Hagerman Fossil Beds NM,333,23768,0.0001
+Bent's Old Fort NHS,334,21674,0.0001
+Brown v. Board of Education NHS,335,21413,0.0001
+Springfield Armory NHS,336,20979,0.0001
+Martin Van Buren NHS,337,20623,0.0001
+Fossil Butte NM,338,20554,0.0001
+Keweenaw NHP,339,20535,0.0001
+Saint Paul's Church NHS,340,18537,0.0001
+Noatak NPRES,341,17216,0.0001
+Lake Clark NP & PRES,342,17157,0.0001
+Agate Fossil Beds NM,343,16657,0.0001
+Russell Cave NM,344,16642,0.0001
+Cesar E. Chavez NM,345,16490,0.0001
+Cape Krusenstern NM,346,16226,0
+Kobuk Valley NP,347,15766,0
+Edgar Allan Poe NHS,348,15527,0
+Charles Young Buffalo Soldiers NM,349,14106,0
+Minidoka NHS,350,13647,0
+Fort Union Trading Post NHS,351,12967,0
+Saint Croix Island IHS,352,11613,0
+Fort Union NM,353,11063,0
+First Ladies NHS,354,10913,0
+Gates of the Arctic NP & PRES,355,10518,0
+Knife River Indian Villages NHS,356,10354,0
+Belmont-Paul Women's Equality NM,357,9913,0
+Maggie L. Walker NHS,358,9602,0
+Washita Battlefield NHS,359,9119,0
+Alibates Flint Quarries NM,360,8847,0
+President W.J. Clinton Birthplace Home NHS,361,8758,0
+Saugus Iron Works NHS,362,8150,0
+Thomas Stone NHS,363,8020,0
+Frederick Law Olmsted NHS,364,7791,0
+Fort Bowie NHS,365,7577,0
+Sand Creek Massacre NHS,366,5701,0
+Salt River Bay NHP & Ecological Pres,367,5215,0
+Clara Barton NHS,368,4100,0
+Mary McLeod Bethune Council House NHS,369,3788,0
+Nicodemus NHS,370,3540,0
+Eugene O'Neill NHS,371,2944,0
+Bering Land Bridge NPRES,372,2642,0
+Carter G. Woodson Home NHS,373,2381,0
+Thaddeus Kosciuszko NMEM,374,1921,0
+Yukon-Charley Rivers NPRES,375,1114,0
+Port Chicago Naval Magazine NMEM,376,830,0
+Rio Grande W&SR,377,324,0
+Aniakchak NM & PRES,378,100,0
