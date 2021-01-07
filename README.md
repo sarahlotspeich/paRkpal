@@ -14,8 +14,11 @@ We demonstrate use of the `nationalpaRkpalettes` package using the `NationalPark
 `visits <- read.csv("https://raw.githubusercontent.com/sarahlotspeich/nationalpaRkpalettes/master/data/NationalParkVisits_2019.csv")`
 
 `library(ggplot2)`
+
 `top10 <- visits[visits$Rank <= 10, ]`
+
 `top10$ParkName <- factor(top10$ParkName, levels = top10$ParkName)`
+
 `ggplot(data = top10) + 
   geom_bar(aes(x = ParkName, y = Value, fill = ParkName), stat = "identity") + 
   scale_fill_manual(values = park_palette("olympic"), guide = F) + 
