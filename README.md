@@ -1,4 +1,5 @@
 # paRkpal: for lovers of data viz & national parks 
+## Sarah C. Lotspeich, Bridget N. Chalifour
 This package contains color palettes for R data visualization that are inspired by the United States National Parks. 
 
 ### Install
