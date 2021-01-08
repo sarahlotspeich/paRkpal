@@ -1,15 +1,15 @@
-# nationalpaRkpalettes
+# paRkpal
 This package contains color palettes for R data visualization that are inspired by the United States National Parks. 
 
 ### Install
-To install the package, run the following in your `R` console: `devtools::install_github("sarahlotspeich/nationalpaRkpalettes")`.
+To install the package, run the following in your `R` console: `devtools::install_github("sarahlotspeich/paRkpal")`.
 
 ### Example: Visualizing US National Park Visitors (2019)
 
-We demonstrate use of the `nationalpaRkpalettes` package using the `NationalParkVisits_2019` data.
+We demonstrate use of the `paRkpal` package using the `NationalParkVisits_2019` data.
 
-`devtools::install_github("sarahlotspeich/nationalpaRkpalettes")`
-`library(nationalpaRkpalettes)`
+`devtools::install_github("sarahlotspeich/paRkpal")`
+`library(paRkpal)`
 
 `visits <- read.csv("https://raw.githubusercontent.com/sarahlotspeich/nationalpaRkpalettes/master/data/NationalParkVisits_2019.csv")`
 
