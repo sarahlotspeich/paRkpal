@@ -45,12 +45,9 @@ park.pal <- list("acadia1" = c("#544337", "#86715c", "#1f1718", "#92bef6", "#e4d
 #' A function to list available palettes.
 #'
 #' This function returns a list of the available palettes in the package.
-#' @keywords
-#' @export
-#' @examples
 #' list_park_palettes()
 
-list_park_palettes <- function(pal = park.pal) {
+list_park_palettes <- function() {
   return(park.pal)
 }
 
@@ -59,9 +56,7 @@ list_park_palettes <- function(pal = park.pal) {
 #' This function returns the palette based on the desired name and size.
 #' @param name Name of national park palette (call \code{list_park_palettes()} for available palettes).
 #' @param n Number of colors from palette. Default is the maximum of 10.
-#' @keywords
 #' @export
-#' @examples
 #' park_palette()
 
 park_palette <- function(name, n = 10) {

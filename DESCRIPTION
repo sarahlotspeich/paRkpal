@@ -1,6 +1,6 @@
-Package: nationalpaRkpalettes
+Package: paRkpal
 Type: Package
-Title: Beautiful R color palettes inspired by the US National Parks
+Title: R color palettes inspired by the US National Parks
 Version: 0.1.0
 Author: Sarah C. Lotspeich, Bridget N. Chalifour, Macy Chalifour-Gebert
 Maintainer: Sarah C. Lotspeich <sarah.c.lotspeich@vanderbilt.edu>
