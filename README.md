@@ -1,8 +1,9 @@
-# paRkpal
+# paRkpal: for lovers of data viz & national parks 
+## Sarah C. Lotspeich, Bridget N. Chalifour
 This package contains color palettes for R data visualization that are inspired by the United States National Parks. 
 
 ### Install
-To install the package, run the following in your `R` console: `devtools::install_github("sarahlotspeich/paRkpal")`.
+To install the package, run the following in your `R` console: `devtools::install_github("sarahlotspeich/paRkpal")`. 
 
 ### Example: Visualizing US National Park Visitors (2019)
 
@@ -19,12 +20,17 @@ We demonstrate use of the `paRkpal` package using the `NationalParkVisits_2019` 
 
 `top10$ParkName <- factor(top10$ParkName, levels = top10$ParkName)`
 
-`ggplot(data = top10) + 
-  geom_bar(aes(x = ParkName, y = Value, fill = ParkName), stat = "identity") + 
-  scale_fill_manual(values = park_palette("olympic"), guide = F) + 
-  xlab("National Park") + ylab("Number of Visitors") + 
-  ggtitle("Top 10 Most-Visited US National Parks (2019)") + theme_minimal() + 
-  theme(axis.text.x = element_text(angle = 30, hjust = 1))`
+`ggplot(data = top10) +`
+
+  `geom_bar(aes(x = ParkName, y = Value, fill = ParkName), stat = "identity") + `
+  
+  `scale_fill_manual(values = park_palette("olympic"), guide = F) + `
+  
+  `xlab("National Park") + ylab("Number of Visitors") + `
+  
+  `ggtitle("Top 10 Most-Visited US National Parks (2019)") + theme_minimal() + `
+  
+  `theme(axis.text.x = element_text(angle = 30, hjust = 1))`
 
 ![Alt text](images/ParkVisitors2019.png)
 
