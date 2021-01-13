@@ -14,6 +14,3 @@ park_palette(name, n = 10)
 \description{
 This function returns the palette based on the desired name and size.
 }
-\examples{
-park_palette()
-}

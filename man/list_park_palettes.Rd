@@ -4,11 +4,9 @@
 \alias{list_park_palettes}
 \title{A function to list available palettes.}
 \usage{
-list_park_palettes(pal = park.pal)
+list_park_palettes()
 }
 \description{
 This function returns a list of the available palettes in the package.
-}
-\examples{
 list_park_palettes()
 }

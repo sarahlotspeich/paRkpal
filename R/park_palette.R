@@ -26,9 +26,10 @@ park.pal <- list("acadia" = c("#544337", "#86715c", "#1f1718", "#92bef6", "#e4de
                  "katmai" = c("#d5d3d1", "#90929b", "#a4b8c9", "#141d22", "#82a3c0", "#3c7092", "#375163", "#606e70", "#013a40", "#2e4d4f"),
                  "kenai_fjord" = c("#3f4040", "#7e9ca6", "#606363", "#d0d9dd", "#aebec5", "#abcfde", "#3f6f81", "#474b54", "#60737d", "#9accd4"),
                  "mt_rainier1" = c("#4182cc", "#d8cfba", "#4c5a28", "#8e9365", "#847b5d", "#161e15", "#656e70", "#18301e", "#a0bd9e", "#ac743c"),
-                 "mount_rainier2" = c("#fa0a59", "#779405", "#d37bbb", "#743c84", "#5e5c71", "#6c98c3", "#364a0d", "#5d4f4b", "#948167", "#d9b3e7"),
+                 "mt_rainier2" = c("#fa0a59", "#779405", "#d37bbb", "#743c84", "#5e5c71", "#6c98c3", "#364a0d", "#5d4f4b", "#948167", "#d9b3e7"),
                  "olympic" = c("#4d5517", "#d2dac5", "#9abe4a", "#6e901e","#8f9536", "#82989f", "#111005", "#5d6760", "#291f0e", "#b79675"),
                  "redwood" = c("#89432d", "#707235", "#336023", "#97652f", "#b84a23", "#655d5f", "#a49494", "#a5a76b", "#d9a853", "#da5d0d"),
+                 "rocky_mountain" = c("#2a703a", "#3693d2", "#807769", "#5e6f5a", "#4f6983", "#a68a67", "#23372f", "#939086", "#738ea2", "#e0dbe0"), 
                  "saguaro" = c("#997a19", "#dca787", "#9e8595", "#361f14", "#ecd0b4", "#522819", "#796ba6", "#77704a", "#ba985c", "#fdd164"),
                  "sand_dunes" = c("#cba655", "#53473a", "#7b94b3", "#a18032", "#aeb5bf", "#173455", "#73808a", "#bc865a", "#2a1908", "#bc7424"),
                  "sequoia" = c("#d5dbd4", "#473321", "#888a74", "#9b9fa0", "#64644c", "#846147", "#b8906e", "#6a6e69", "#180e06", "#b4af6a"),
@@ -45,7 +46,6 @@ park.pal <- list("acadia" = c("#544337", "#86715c", "#1f1718", "#92bef6", "#e4de
 #'
 #' This function returns a list of the available palettes in the package.
 #' list_park_palettes()
-
 list_park_palettes <- function() {
   return(park.pal)
 }
@@ -56,10 +56,7 @@ list_park_palettes <- function() {
 #' @param name Name of national park palette (call \code{list_park_palettes()} for available palettes).
 #' @param n Number of colors from palette. Default is the maximum of 10.
 #' @export
-#' park_palette()
-
 park_palette <- function(name, n = 10) {
   if (!(name %in% names(park.pal))) return(warning("Invalid palette name provided."))
   return(as.vector(unlist(park.pal[name]))[1:n])
 }
-
