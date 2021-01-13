@@ -1,10 +1,5 @@
----
-title: "paRkpal: for lovers of data viz & national parks"
-author: Sarah C. Lotspeich, Bridget N. Chalifour
-output:
-  html_document:
-    toc: no
----
+# `paRkpal`: for lovers of data viz & national parks
+## Sarah C. Lotspeich, Bridget N. Chalifour
 
 This package contains color palettes for R data visualization that are inspired by the United States National Parks. We are just two PhD candidates who love pretty graphs and the outdoors. We are in no way associated with the National Park Service (unfortunately). 
 
