@@ -13,11 +13,7 @@ To install the package, run the following in your `R` console: `devtools::instal
 
 ## Available parks & palettes 
 
-![](images/palettes1.png)
-![](images/palettes2.png)
-![](images/palettes3.png)
-![](images/palettes4.png)
-![](images/palettes5.png)
+![](images/paRkpal_options.png)
 
 # Examples
 ## Most-Visited US National Parks (2019)
